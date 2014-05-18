@@ -1,0 +1,12 @@
+int find_next_power(int n);
+int is_multiple_3(int n);
+static int absolute(int n);
+int find_parity(int n);
+int find_odd_occurence(int* array, int n);
+void check_indian();
+int count_set_bits(int n);
+int left_rotate(int n, int d);
+int right_rotate(int n, int d);
+int multiply_3_5(int n);
+int n_mod_d(int n, int d);
+int add_one(int n);
